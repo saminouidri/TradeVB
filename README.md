@@ -4,6 +4,7 @@ A simple stock market simulator with a secure login. You start with a 100$, and 
 
 ### Secure Login
 On login, TradeVB listens for a special code transmitted over serial by a third-party device (in our case, an arduino with a fingerprint reader), in order to secure your non-existent funds. This is to demonstrate hardware security as a concept (like in the case of bitcoin wallets) for future projects.
+![photo](https://imgur.com/TkrPrbc.png)
 
 ## Contributing
 
