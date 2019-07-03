@@ -1,4 +1,4 @@
-![photo](https://i.imgur.com/9g1IxtP.png)
+![photo](https://imgur.com/o0lz3t2.png)
 ## What is TradeVB?
 A simple stock market simulator with a secure login. You start with a 100$, and through some investments can reach thousands. The stock's prices are updated regularly (randomly I might add) as well as exchange rate for the US dollar. 
 
